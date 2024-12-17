@@ -11,7 +11,7 @@ import SwiftUI
 struct Sesion07App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CatListView()
         }
     }
 }
